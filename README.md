@@ -4,7 +4,7 @@ Second project from [The Odin Project](https://www.theodinproject.com/).
 
 ## Overview
 
-Project consists of recreating website structure based on supplied images.
+Project involves recreating website structure based on provided images.
 
 ### Website overview
 ![Hero website overview](./images/01.png)
