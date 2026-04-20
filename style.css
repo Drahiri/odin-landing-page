@@ -25,3 +25,15 @@ body {
     font-weight: 900;
     text-decoration: none;
 }
+
+.navbar-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
