@@ -93,9 +93,29 @@ button {
     margin-top: 52px;
 }
 
+.figures {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 180px;
+}
+
 .fig-image {
     width: 180px;
     height: 180px;
     border: 4px solid #3882f6;
     border-radius: 20px;
+}
+
+.fig-info {
+    text-align: center;
+    color: gray;
+    margin-top: 6px;
+    font-size: 18px;
 }
