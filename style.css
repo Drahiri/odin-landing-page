@@ -44,3 +44,10 @@ body {
     font-size: 18px;
     text-decoration: none;
 }
+
+.section-1 {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    padding: 72px 24px;
+}
