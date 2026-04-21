@@ -72,3 +72,15 @@ body {
     font-weight: 900;
     margin: 0;
 }
+
+button {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    display: block;
+    margin-top: 12px;
+    padding: 10px 36px;
+    border-radius: 10px;
+}
