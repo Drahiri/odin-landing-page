@@ -6,6 +6,7 @@ body {
     font-family: Roboto, sans-serif;
     padding: 0px;
     margin: 0px;
+    font-size: 18px;
 }
 
 .navbar {
@@ -42,14 +43,12 @@ body {
 
 .nav-link {
     color: #e5e7eb;
-    font-size: 18px;
     text-decoration: none;
 }
 
 .section-1 {
     background-color: #1f2937;
     color: #e5e7eb;
-    font-size: 18px;
     padding: 84px 24px 142px;
 }
 
@@ -117,5 +116,4 @@ button {
     text-align: center;
     color: gray;
     margin-top: 6px;
-    font-size: 18px;
 }
