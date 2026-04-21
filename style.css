@@ -50,10 +50,18 @@ body {
     background-color: #1f2937;
     color: #e5e7eb;
     font-size: 18px;
-    padding: 72px 24px;
+    padding: 84px 24px;
 }
 
 .left-side,
 .right-side {
     flex: 1;
+}
+
+.right-side {
+    align-self: stretch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #808080df;
 }
