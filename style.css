@@ -19,6 +19,7 @@ body {
     margin-right: auto;
     display: flex;
     align-items: center;
+    gap: 24px;
 }
 
 .logo {
@@ -50,4 +51,9 @@ body {
     color: #e5e7eb;
     font-size: 18px;
     padding: 72px 24px;
+}
+
+.left-side,
+.right-side {
+    flex: 1;
 }
