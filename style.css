@@ -84,6 +84,11 @@ button {
     border-radius: 10px;
 }
 
+.section-2 {
+    margin-top: 52px;
+    margin-bottom: 96px;
+}
+
 .info-text {
     font-size: 36px;
     color: #1f2937;
@@ -95,7 +100,6 @@ button {
     justify-content: center;
     gap: 48px;
     margin-top: 48px;
-    margin-bottom: 100px;
 }
 
 .figure {
