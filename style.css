@@ -75,16 +75,19 @@ body {
     margin: 0;
 }
 
-button {
+.blue-bg {
     background-color: #3882f6;
     border: none;
+    border-radius: 10px;
+}
+
+button {
     color: white;
     font-size: 18px;
     font-weight: 900;
     display: block;
     margin-top: 12px;
     padding: 10px 36px;
-    border-radius: 10px;
 }
 
 .section-2 {
