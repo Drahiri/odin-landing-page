@@ -127,3 +127,13 @@ button {
     color: gray;
     margin-top: 6px;
 }
+
+.section-3 {
+    background-color: #e5e7eb;
+    padding-top: 108px;
+    padding-bottom: 96px;
+}
+
+.section-3 .centralize {
+    max-width: 800px;
+}
