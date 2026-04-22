@@ -145,3 +145,9 @@ button {
     font-weight: 300;
     font-style: italic;
 }
+
+.quote-author {
+    text-align: end;
+    font-weight: 600;
+    font-size: 22px;
+}
