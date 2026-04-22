@@ -89,11 +89,9 @@ button {
     color: #1f2937;
     font-weight: 900;
     text-align: center;
-    margin-top: 52px;
 }
 
-.figures {
-    display: flex;
+.section-2 .container {
     justify-content: center;
     gap: 48px;
     margin-top: 48px;
