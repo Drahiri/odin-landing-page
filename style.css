@@ -137,3 +137,11 @@ button {
 .section-3 .centralize {
     max-width: 800px;
 }
+
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+}
