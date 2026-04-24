@@ -167,3 +167,7 @@ body {
     font-size: 20px;
     font-weight: 900;
 }
+
+.white-border {
+    border: 2px white solid;
+}
