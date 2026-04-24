@@ -171,3 +171,10 @@ body {
 .white-border {
     border: 2px white solid;
 }
+
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 36px;
+}
