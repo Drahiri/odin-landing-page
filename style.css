@@ -82,7 +82,7 @@ body {
     color: #e5e7eb;
 }
 
-button {
+.sign-btn {
     color: white;
     font-size: 18px;
     font-weight: 900;
