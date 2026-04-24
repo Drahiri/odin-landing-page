@@ -162,3 +162,8 @@ body {
     padding: 64px 96px;
     justify-content: space-between;
 }
+
+.call-main {
+    font-size: 20px;
+    font-weight: 900;
+}
