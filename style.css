@@ -152,3 +152,12 @@ body {
     font-weight: 600;
     font-size: 22px;
 }
+
+.section-4 {
+    padding-top: 108px;
+    padding-bottom: 96px;
+}
+
+.modal {
+    padding: 64px 96px;
+}
