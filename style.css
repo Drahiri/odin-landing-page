@@ -9,8 +9,12 @@ body {
     font-size: 18px;
 }
 
-.navbar {
+.dark-bg {
+    color: #e5e7eb;
     background-color: #1f2937;
+}
+
+.navbar {
     padding: 24px;
 }
 
@@ -50,8 +54,6 @@ body {
 }
 
 .section-1 {
-    background-color: #1f2937;
-    color: #e5e7eb;
     padding: 84px 24px 142px;
 }
 
@@ -174,7 +176,5 @@ body {
 
 footer {
     text-align: center;
-    background-color: #1f2937;
-    color: #f9faf8;
     padding: 36px;
 }
